@@ -1,5 +1,8 @@
 _repo: It-Jubeljier-b-1793-1813_73762
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73762-h/images/cover.jpg
 creator:
   author:
     agent_name: Kloosterman, Simke
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/52234
     wikipedia: https://fy.wikipedia.org/wiki/Simke_Kloosterman
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73762#It-Jubeljier-b-1793-1813
 gutenberg_issued: '2024-06-03'
 gutenberg_type: Text
 identifiers:
